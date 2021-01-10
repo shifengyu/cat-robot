@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://doc.sfy18178.com.cn" target="_blank">
-    <img width="128" src="https://www.sfy18178.com.cn/wp-content/uploads/2020/08/21582690901_.pic_.jpg" alt="wukong-robot">
+    <img width="128" src="https://www.sfy18178.com.cn/wp-content/uploads/2020/08/21582690901_.pic_.jpg" alt="cat-robot">
   </a>
 </p>
 
